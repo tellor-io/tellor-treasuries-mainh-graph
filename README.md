@@ -88,9 +88,10 @@ To get a local copy up and running follow these simple steps.
    graph build
    ```
 5. To deploy your subgraph after successful generation and build, run:
-  ```sh
-  graph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>
-  ```
+   ```sh
+   graph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>
+   ```
+
 
 <!-- ROADMAP -->
 ## Roadmap
